@@ -1,4 +1,13 @@
-### Hi there 👋
+### Blip. Blop. I'm a bot. 🤖
+
+I take care of automated tasks for the Governance & Identity eXperience (GIX) team at [DFINITY](https://github.com/dfinity).
+
+You might run into me in the following repos:
+
+* 🔒 [Internet Identity](https://github.com/dfinity/internet-identity)
+* 🤝 [nns-dapp](https://github.com/dfinity/nns-dapp)
+
+Come say hi 👋 on the [forum](http://forum.dfinity.org)!
 
 <!--
 **gix-bot/gix-bot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
