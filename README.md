@@ -30,5 +30,5 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-  <em>Logo by <a href="https://noeliemartin.com">noeliemartin.com</a></em>
+  <em>Logo by <a target="_blank" href="https://noeliemartin.com">noeliemartin.com</a></em>
 </p>
